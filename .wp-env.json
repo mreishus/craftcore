@@ -1,0 +1,7 @@
+{
+  "core": "./wordpress-develop/src",
+  "mappings": {
+    "tmp/logs": "./logs",
+    "wp-content/mu-plugins": "./mu-plugins"
+  }
+}
